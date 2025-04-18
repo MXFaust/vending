@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: University of Maryland
-// Faux Engineer: Benjamin Felbinger
+// Faux Engineer: MXFaust
 // 
 // Create Date: 04/01/2022 07:15:05 PM
 // Design Name: Vending Machine Controller 
